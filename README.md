@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Faria Alam .</h1>
 <h3 align="center">I am a passionate MERN Stack Developer with a love for building scalable and efficient web applications. I enjoy turning ideas into reality using MongoDB, Express.js, React, and Node.js, and I am always eager to explore new technologies and improve my skills.</h3>
 <img align="right" alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwC2EUDS6facSVf8idQwIUMkIKyxm-waBocw&s"
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mollikafaria06&label=Profile%20views&color=0e75b6&style=flat" alt="mollikafaria06" /> </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mollikafaria06&label=Profile%20views&color=0e75b6&style=flat" alt="mollikafaria06" /> </p>
 
 - 🔭 I’m currently working on **full-stack applications**
 
