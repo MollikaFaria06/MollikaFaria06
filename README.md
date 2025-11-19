@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://i.postimg.cc/BXXymWRs/banner.png" alt="Faria Alam Banner" width="900" />
+  <img 
+    src="https://i.postimg.cc/Qxb3xhbB/2.png" 
+    alt="My Image" 
+    width="600" 
+    style="max-width: 100%; height: auto;"
+  />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Faria Alam</h1>
 <h3 align="center">A passionate MERN Stack Developer building scalable and efficient web applications with MongoDB, Express.js, React, and Node.js. Always eager to learn and explore new technologies.</h3>
