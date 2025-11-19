@@ -1,24 +1,26 @@
 <p align="center">
   <img 
     src="https://i.postimg.cc/Qxb3xhbB/2.png" 
-    alt="My Image" 
+    alt="My Banner" 
     width="600" 
     style="max-width: 100%; height: auto;"
   />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Faria Alam</h1>
-<h3 align="center">A passionate MERN Stack Developer building scalable and efficient web applications with MongoDB, Express.js, React, and Node.js. Always eager to learn and explore new technologies.</h3>
+<h3 align="center">
+  A passionate MERN Stack Developer building scalable and efficient web applications with MongoDB, Express.js, React, and Node.js. Always eager to learn and explore new technologies.
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mollikafaria06&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
-
 ### 🔭 Current Work
 - Building **full-stack applications** using MERN Stack.
+
+<img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" align="right" width="250">
 
 ### 🌱 Learning & Growth
 - Continuously improving as a **MERN Stack Developer**, exploring new tools, frameworks, and best practices.
@@ -33,11 +35,21 @@
 
 ### Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/faria-alam-aa2a34271" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
-  <a href="https://fb.com/faria.mollika.3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/></a>
-  <a href="https://instagram.com/mollikaaaa_f" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/></a>
-  <a href="https://www.codechef.com/users/faria_mk06" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40"/></a>
-  <a href="https://codeforces.com/profile/faria_mk06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40"/></a>
+  <a href="https://linkedin.com/in/faria-alam-aa2a34271" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  <a href="https://fb.com/faria.mollika.3" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
+  </a>
+  <a href="https://instagram.com/mollikaaaa_f" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/faria_mk06" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40"/>
+  </a>
+  <a href="https://codeforces.com/profile/faria_mk06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40"/>
+  </a>
 </p>
 
 ---
