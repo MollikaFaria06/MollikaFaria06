@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/BXXymWRs/banner.png" alt="Faria Alam Banner" width="100%" />
+  <img src="https://i.postimg.cc/BXXymWRs/banner.png" alt="Faria Alam Banner" width="900" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Faria Alam</h1>
@@ -54,12 +54,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mollikafaria06&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mollikafaria06&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mollikafaria06&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mollikafaria06" alt="GitHub Streak" />
 </p>
