@@ -36,21 +36,28 @@
 
 ---
 
+
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/faria-alam-aa2a34271" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/faria.mollika.3" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/faria_mk06" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" width="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/faria_mk06" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" width="40"/>
   </a>
 </p>
+
+
 
 ---
 
