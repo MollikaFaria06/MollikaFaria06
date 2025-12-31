@@ -1,8 +1,8 @@
 <p align="center">
   <img 
-    src="https://i.postimg.cc/Qxb3xhbB/2.png" 
+    src="https://i.ibb.co.com/27w2TKX8/1.png" 
     alt="My Banner" 
-    width="600" 
+    width="2000" 
     style="max-width: 100%; height: auto;"
   />
 </p>
