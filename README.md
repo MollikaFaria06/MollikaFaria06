@@ -40,7 +40,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/faria-alam-aa2a34271" target="_blank">
+  <a href="https://www.linkedin.com/in/faria-alam-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
