@@ -19,6 +19,7 @@
 ---
 ### 🔭 Current Work
 - Building **full-stack applications** using MERN Stack.
+- exploring **Next.js.**
 
 <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" align="right" width="250">
 
@@ -30,6 +31,7 @@
 
 ### 📫 Contact Me
 - Email: **fariamk007@gmail.com**
+- Contact No: **01306518217**
 
 ---
 
@@ -40,9 +42,6 @@
   </a>
   <a href="https://fb.com/faria.mollika.3" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
-  </a>
-  <a href="https://instagram.com/mollikaaaa_f" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
   </a>
   <a href="https://www.codechef.com/users/faria_mk06" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="40" width="40"/>
@@ -63,6 +62,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MollikaFaria06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=MollikaFaria06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MollikaFaria06&theme=dark&hide_border=false)<br/>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MollikaFaria06&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
 
 ---
 
