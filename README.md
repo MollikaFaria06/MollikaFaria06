@@ -112,7 +112,6 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MollikaFaria06&theme=dark&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=MollikaFaria06&theme=dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=MollikaFaria06&theme=dark)
 
